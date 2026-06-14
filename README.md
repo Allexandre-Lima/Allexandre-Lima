@@ -1,17 +1,22 @@
-<img width="3000" height="1000" alt="Gemini_Generated_Image_dltqdldltqdldltq" src="https://github.com/user-attachments/assets/d4689592-2d89-49ba-8140-cdc23deaed14"/>
+
+<img width="3000" height="1000" alt="Gemini_Generated_Image_dltqdldltqdldltq" src="https://github.com/user-attachments/assets/d3f53673-12ec-46c2-b1c0-53fde1a572d7" />
+
 
 # 👋 Olá, eu sou o Alexandre Lima!
 💻 Desenvolvedor Front-End em formação.
 <br>
-📍 Manaus - AM | Brasil.
+📍 Curitiba - PR | Brasil.
 <br>
 🚀 Em transição de carreira para a área de tecnologia.
 <br>
 😍 Sou apaixonado por tecnologia, desenvolvimento web e soluções digitais.
 <br>
-🏗️ Venho construindo projetos práticos com foco em HTML, CSS e JavaScript, buscando sempre evoluir tecnicamente e profissionalmente.
+🏗️ Venho construindo projetos práticos com foco em HTML, CSS, JavaScript e N8N buscando sempre evoluir tecnicamente e profissionalmente.
 
 # Tenho experiência anterior como:
+
+⚙️ Assistente de Pós-Venda - Peugeot / Citroen
+<br>
 <br>
 📦 Líder de Estoque na PMZ 
 <br>
@@ -25,7 +30,6 @@ Essas experiências fortaleceram minha disciplina, organização, liderança e t
 
 ## 🚀 Sobre Mim
 
-- 🔥 Fundador da comunidade **CodeVerse**
 - 📚 Estudante focado em desenvolvimento Front-End
 - 🧠 Interessado em IA, automações e tecnologia aplicada a negócios
 - 🎯 Objetivo: atuar como Desenvolvedor Front-End Júnior
