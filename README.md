@@ -1,6 +1,4 @@
-
-<img width="3000" height="1000" alt="Gemini_Generated_Image_dltqdldltqdldltq" src="https://github.com/user-attachments/assets/d3f53673-12ec-46c2-b1c0-53fde1a572d7" />
-
+<img width="3000" height="2000" alt="ChatGPT Image 5 de out  de 2026, 13_39_42" src="https://github.com/user-attachments/assets/fb37871f-989a-47e8-979d-82178065bc08" />
 
 # 👋 Olá, eu sou o Alexandre Lima!
 💻 Desenvolvedor Front-End em formação.
