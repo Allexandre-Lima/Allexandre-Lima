@@ -1,4 +1,4 @@
-<img width="3000" height="2000" alt="ChatGPT Image 5 de out  de 2026, 13_39_42" src="https://github.com/user-attachments/assets/fb37871f-989a-47e8-979d-82178065bc08" />
+<img width="1254" height="1254" alt="ChatGPT Image 5 de out  de 2026, 13_39_42" src="https://github.com/user-attachments/assets/fb37871f-989a-47e8-979d-82178065bc08" />
 
 # 👋 Olá, eu sou o Alexandre Lima!
 💻 Desenvolvedor Front-End em formação.
