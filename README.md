@@ -12,7 +12,9 @@
 🏗️ Venho construindo projetos práticos com foco em HTML, CSS, JavaScript e N8N buscando sempre evoluir tecnicamente e profissionalmente.
 
 # Tenho experiência anterior como:
-
+⚙️ Assistente Administrativo - Veman
+<br>
+<br>
 ⚙️ Assistente de Pós-Venda - Peugeot / Citroen
 <br>
 <br>
